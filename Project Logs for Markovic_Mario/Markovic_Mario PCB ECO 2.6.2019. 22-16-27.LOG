@@ -1,0 +1,12 @@
+Added Component: Designator=C101(RAD-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cijena"; Value = "2.06 kn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Katalog dobavljaèa"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kataloški broj"; Value = "1457699"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Opis komponente"; Value = "Multilayer Ceramic Capacitor, Gold Max, 0.1 µF, 50 V, Goldmax, 300 Series, ± 10%, Radial Leaded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Proizvoðaè"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C101-1
+Added Pin To Net: NetName=VCC Pin=C101-2
+Added Member To Class: ClassName=Markovic_Mario Member=Component C101 100n

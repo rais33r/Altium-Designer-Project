@@ -1,0 +1,10 @@
+Output: Protel
+Type  : ProtelNetlist
+From  : Project [Markovic_Mario.PrjPcb]
+   Generated File[Markovic_Mario.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:46:52 On 1.6.2019.
